@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="nourabuelenin.gif" width="400" />
+  <img src="nourabuelenin.gif" width="300" />
 </p>
 
 <p align="center">
@@ -62,4 +62,6 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,angular,react,vue,html,css,tailwind,nodejs,laravel,mysql,mongodb,pytorch,opencv,d3,git,docker,linux,figma" />
 </p>
 
-![Snake animation](https://github.com/nourabuelenin/nourabuelenin/blob/output/github-contribution-grid-snake.svg)
+---
+
+![Snake animation](https://raw.githubusercontent.com/nourabuelenin/nourabuelenin/output/github-contribution-grid-snake.svg)
