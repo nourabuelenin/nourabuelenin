@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nour Abuelenin</h1>
+<!-- <h1 align="center">Hi 👋, I'm Nour Abuelenin</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <a href="nourabuelenin@gmail.com" target="blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
-</p>
+</p> -->
 
 ---
 ```yaml
