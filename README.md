@@ -14,6 +14,12 @@
 </a>
 </p> -->
 
+
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,angular,react,vue,html,css,tailwind,nodejs,laravel,mysql,mongodb,pytorch,opencv,d3,git,docker,linux,figma" />
+</p>
+
 ---
 ```yaml
 
@@ -54,14 +60,6 @@ const developer = {
 };
 
 ```
-
----
-
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,angular,react,vue,html,css,tailwind,nodejs,laravel,mysql,mongodb,pytorch,opencv,d3,git,docker,linux,figma" />
-</p>
-
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/nourabuelenin/nourabuelenin/output/github-contribution-grid-snake.svg)
